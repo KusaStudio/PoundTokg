@@ -1,0 +1,49 @@
+Privacy Policy for Pounds to Kilograms
+Effective date: October 7, 2026
+Developer: KusaStudio
+KusaStudio provides Pounds to Kilograms, an app for converting weights between pounds (lb) and kilograms (kg). This Privacy Policy explains how information is handled when you use the app or contact us.
+1. Information handled by the app
+Pounds to Kilograms does not require an account.
+The app processes the weight values you enter to calculate conversions. Saved conversion history and preferences, such as decimal precision and theme settings, are stored locally on your device.
+We do not receive your entered values, conversion history, or preferences through the app.
+The app does not collect location, contacts, photographs, payment information, or advertising identifiers.
+2. How information is used
+Information stored on your device is used to:
+- Calculate and display conversions.
+- Save and restore conversions you choose to keep.
+- Remember your display and precision preferences.
+We do not sell or rent your information or use your conversion data for advertising.
+3. Copying and sharing results
+When you choose to copy a result, the app places the selected text on your device’s clipboard.
+When you choose to share a conversion, the selected text is passed to an application or service you select. That application or service handles the information according to its own privacy practices.
+4. Advertising and analytics
+Pounds to Kilograms does not include advertising, analytics, or tracking SDKs. It does not transmit conversion activity to KusaStudio for monitoring or profiling.
+5. Device backups
+Depending on your device settings and the app’s backup configuration, locally stored information may be included in backups managed by your operating system or backup provider.
+KusaStudio does not operate these backup services. Backup storage, restoration, and deletion are controlled by your device settings and the relevant provider.
+6. Support communications
+If you contact us by email or telephone, we may receive your email address, telephone number, message content, and any information you voluntarily provide.
+We use this information to respond to your request, investigate reported issues, and provide support. Email and telephone providers may process these communications under their own privacy policies.
+Please avoid sending sensitive personal information that is unnecessary for your request.
+7. Retention and deletion
+Saved conversions and preferences remain on your device until you delete them or remove the app’s local data.
+You can delete saved history using the app’s history controls. You can also remove local app data through Android’s app storage settings. Uninstalling the app generally removes its local data, although backup copies may remain with your backup provider.
+We retain support communications only as long as reasonably necessary to handle your request and meet applicable legal obligations. You may contact us to request deletion of support information you have provided.
+8. Information disclosure
+We do not automatically receive or share your locally stored conversion data.
+Support information may be processed by service providers that help deliver communications. We may also disclose information where required by applicable law or necessary to protect legal rights.
+9. Security
+The app relies on your device’s storage protections to safeguard locally stored information. We take reasonable precautions when handling support communications, but no storage or communication method can guarantee absolute security.
+10. Children’s privacy
+The app does not require users to submit personal information, and we do not knowingly collect personal information from children through the app.
+If you believe a child has provided personal information to us through a support message, please contact us so we can review and delete it where appropriate.
+11. Your privacy requests
+Depending on your location, you may have rights to access, correct, or delete personal information you have provided to us, or to object to or restrict certain processing.
+Contact us using the details below to make a request. Because conversion history stays on your device, we cannot access or delete it remotely; you can manage it using the app or your device settings.
+12. Changes to this policy
+We may update this Privacy Policy when the app or its information practices change. The updated policy will show a revised effective date and will be made available through the app or its privacy policy page.
+13. Contact us
+For privacy questions or requests, contact:
+KusaStudio
+Email: contact@xunveria.online
+Phone: +447460008122
